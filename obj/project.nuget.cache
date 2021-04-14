@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "SEUHQZ/iJipePGLq4MxfTwnUuiSQnLsdhvgEqVULH5d/wrj1YJnfEDawwIxYH8JQ4qpI/Tz6PP3XoPWTsOtHiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hughs\\OneDrive\\Desktop\\Repo\\LinqEx3\\LinqExercise\\LinqExercise\\LinqExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hughs\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\hughs\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\hughs\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\hughs\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\hughs\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\hughs\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\hughs\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
